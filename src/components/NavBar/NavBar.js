@@ -7,8 +7,8 @@ function NavBar() {
                               <h3>Ecommerce</h3>
                               </Link>
                               <div className="Categories">
-                              <Link to={"/category/procesadores"} className="button is-danger is-light">Procesadores</Link>
-                              <Link to={"/category/GPU"} className="button is-danger is-light">GPU</Link>
+                              <NavLink to={"/category/procesadores"} className="button is-danger is-light">Procesadores</NavLink>
+                              <NavLink to={"/category/GPU"} className="button is-danger is-light">GPU</NavLink>
                              
                             
                                      

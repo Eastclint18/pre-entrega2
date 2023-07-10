@@ -20,7 +20,7 @@ const products = [
           id:  '3',
           name : 'i7 13700k',
           price : 2000,
-          category: 'Procesadores',
+          category: 'procesadores',
           img  : 'https://cdn11.bigcommerce.com/s-sp9oc95xrw/images/stencil/1280x1280/products/13820/61289/61C-2du0SqS._AC_SL1500___93534.1686301818.jpg?c=2',
           stock : 30 , 
           description : 'Best CPU in the market'

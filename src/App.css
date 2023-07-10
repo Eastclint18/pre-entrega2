@@ -11,3 +11,22 @@ img {
 button{
   margin:10px;
 }
+
+
+.categories {
+  display: flex;
+  flex-direction: row;
+
+
+
+}
+
+
+
+.ListGroup {
+   display: flex;
+   align-items: center;
+  
+
+}
+
